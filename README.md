@@ -41,3 +41,21 @@ Python (em desenvolvimento)
 SQL Server(em desenvolvimento)
 
 Autor Nielson José
+
+## Dashboards
+
+### Dashboard de Vendas
+
+![Dashboard de Vendas](Visão%20Geral%20Vendas.PNG)
+
+### Dashboard Financeiro
+
+![Dashboard Financeiro](Visão%20Financeiro.PNG)
+
+### Dashboard RH
+
+![Dashboard RH](Visão%20RH.PNG)
+
+### Dashboard Logístico
+
+![Dashboard Logístico](Visão%20Logística.PNG)
