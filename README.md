@@ -48,14 +48,17 @@ Autor Nielson José
 
 ![Dashboard de Vendas](Visão%20Geral%20Vendas.PNG)
 
+
 ### Dashboard Financeiro
 
-![Dashboard Financeiro](Visão%20Financeiro.PNG)
+![Dashboard Financeiro](financeiro.png)
 
 ### Dashboard RH
 
-![Dashboard RH](Visão%20RH.PNG)
+![Dashboard RH](rh.png)
 
 ### Dashboard Logístico
 
-![Dashboard Logístico](Visão%20Logística.PNG)
+![Dashboard Logístico](logistica.png)
+
+
