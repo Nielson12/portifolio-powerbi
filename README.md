@@ -1,64 +1,25 @@
-# Portifolio Power BI
+# Portfólio de Projetos Power BI
 
-Este repositorio reune projetos desenvolvidos em Power BI com foco em analise de dados, indicadores de desempenho (KPIs) e apoio a tomada de decisão.
+Bem-vindo ao meu portfólio de análise de dados! Aqui apresento soluções desenvolvidas com foco em indicadores de negócio (KPIs) e suporte à tomada de decisão.
 
-Projetos
+## Meus Projetos
+- [Painel de Vendas](Painel-de-Vendas/)
+- [Painel Financeiro](Painel-Financeiro/)
+- [Painel Logístico](Painel-Logístico/)
+- [Painel de RH](Painel-RH/)
+- [Painel Hospitalar](Painel-Hospitalar/)
+- [Painel de Marketing](Painel-Marketing/)
 
-Dashboard de vendas
+## Tecnologias Utilizadas
+- Power BI (DAX, Power Query)
+- Excel
+- GitHub (Controle de Versão)
 
-Analise de faturamento
-Crescimento de vendas
-Desempenho por região
-Indicadores comerciais
+---
+*Desenvolvido por Nielson*
 
-Dashboard Financeiro
-
-Receita e despesas
-Lucro e margem
-Fluxo de caixa
-Indicadores financeiros
-
-Dashboard RH
-Admissões e desligamentos
-Turnover
-Indicadores de colaboradores
-Analises de recurso Humanos
-
-Dashboard Logistico
-
-Entregas 
-Fretes
-Atrasos
-Eficiencia operacional
-Indicadores logisticos
-
-Ferramentas Utilizadas 
-
-Power BI
-DAX
-Excel
-Python (em desenvolvimento)
-SQL Server(em desenvolvimento)
-
-Autor Nielson José
-
-## Dashboards
-
-### Dashboard de Vendas
-
-![Dashboard de Vendas](Visão%20Geral%20Vendas.PNG)
+ 
 
 
-### Dashboard Financeiro
-
-![Dashboard Financeiro](financeiro.png)
-
-### Dashboard RH
-
-![Dashboard RH](rh.png)
-
-### Dashboard Logístico
-
-![Dashboard Logístico](logistica.png)
 
 
