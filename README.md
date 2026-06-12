@@ -3,7 +3,7 @@
 Bem-vindo ao meu portfólio de análise de dados! Aqui apresento soluções desenvolvidas com foco em indicadores de negócio (KPIs) e suporte à tomada de decisão.
 
 ## Meus Projetos
-- [Painel de Vendas](Painel-de-Vendas/)
+- [Painel de Vendas](Paine-de-Vendas/)
 - [Painel Financeiro](Painel-Financeiro/)
 - [Painel Logístico](Painel-Logístico/)
 - [Painel de RH](Painel-RH/)
