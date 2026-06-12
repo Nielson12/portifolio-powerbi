@@ -6,6 +6,14 @@
 - [Painel Hospitalar](Painel-Hospitalar/)
 - [Painel de Marketing](Painel-Marketing/)
 
+## Tecnologias Utilizadas
+- Power BI (DAX, Power Query)
+- Excel
+- GitHub (Controle de Versão)
+
+ 
+
+
 
 
  
